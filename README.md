@@ -1,6 +1,8 @@
-# SkillDelta — Skill Gap Analysis for Future Jobs
+# SkillDelta - Skill Gap Analysis for Future Jobs
 
 A career guidance dashboard that compares student skills with industry job requirements using Machine Learning.
+
+# ML MINI PROJECT
 
 ## What It Does
 
