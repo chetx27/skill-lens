@@ -52,4 +52,7 @@ skilldelta/
 - Personalized skill recommendations
 - Interactive Plotly charts
 
+## To Run
 
+-Open terminal - source venv/bin/activate
+-Run - streamlit run app.py
