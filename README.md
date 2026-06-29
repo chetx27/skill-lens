@@ -52,13 +52,4 @@ skilldelta/
 - Personalized skill recommendations
 - Interactive Plotly charts
 
-## Sample Input
 
-- Name: Chethana
-- Branch: AIML
-- Skills: Python Java SQL HTML JavaScript React Solidity
-- Target Role: AI Engineer
-
-## Built By
-
-Chethana G — B.E. AIML, Cambridge Institute of Technology, Bengaluru
